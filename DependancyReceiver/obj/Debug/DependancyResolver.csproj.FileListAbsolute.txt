@@ -1,0 +1,7 @@
+D:\Work\DependancyResolver\DependancyReceiver\bin\Debug\FileReader.exe.config
+D:\Work\DependancyResolver\DependancyReceiver\bin\Debug\FileReader.exe
+D:\Work\DependancyResolver\DependancyReceiver\bin\Debug\FileReader.pdb
+D:\Work\DependancyResolver\DependancyReceiver\bin\Debug\Newtonsoft.Json.xml
+D:\Work\DependancyResolver\DependancyReceiver\obj\Debug\DependancyResolver.csprojResolveAssemblyReference.cache
+D:\Work\DependancyResolver\DependancyReceiver\obj\Debug\FileReader.exe
+D:\Work\DependancyResolver\DependancyReceiver\obj\Debug\FileReader.pdb

@@ -1,0 +1,11 @@
+D:\Work\FileReader\FileReader\bin\Debug\FileReader.exe.config
+D:\Work\FileReader\FileReader\bin\Debug\FileReader.exe
+D:\Work\FileReader\FileReader\bin\Debug\FileReader.pdb
+D:\Work\FileReader\FileReader\bin\Debug\Newtonsoft.Json.dll
+D:\Work\FileReader\FileReader\bin\Debug\Newtonsoft.Json.xml
+D:\Work\FileReader\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
+D:\Work\FileReader\FileReader\obj\Debug\FileReader.exe
+D:\Work\FileReader\FileReader\obj\Debug\FileReader.pdb
+D:\Work\DependancyResolver\DependancyReceiver\bin\Debug\FileReader.exe.config
+D:\Work\DependancyResolver\DependancyReceiver\obj\Debug\FileReader.exe
+D:\Work\DependancyResolver\DependancyReceiver\obj\Debug\FileReader.pdb
